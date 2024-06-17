@@ -15,3 +15,8 @@ Before running the automation script, ensure you have the following installed:
 - Apache Maven
 - Google Chrome browser
 - ChromeDriver for Selenium
+
+- ## Video Description
+
+[![Watch the video](https://img.youtube.com/vi/NUoMCnZw7Ng/0.jpg)](https://youtu.be/NUoMCnZw7Ng)
+
